@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3814caad-fd29-4824-a116-3424bc713ad2)# North-Sea-Exports
+# North-Sea-Exports
 
 Sales Dashboard - North Sea Exports.
 Utilizing the power of data visualization, I transformed raw data into actionable insights.🌐
